@@ -1,10 +1,5 @@
 # mywebsite2
 
-### Render the web site (RStudio)
-
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
-
-(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
 ### Next steps
 
